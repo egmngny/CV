@@ -1,2 +1,4 @@
-# CV
-Markdown CV written by Jupyter Notebook
+# RESUME
+---
+- 'Markdown' basic resume written by 'Jupyter Notebook'
+- Additional just one 'HTML' code for image
